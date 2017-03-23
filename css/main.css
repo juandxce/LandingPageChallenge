@@ -1,0 +1,163 @@
+*{
+  font-family: arial;
+}
+.clear{
+  clear:both;
+}
+header{
+  background: #000;
+  color: #c6ae35;
+  overflow: hidden;
+}
+
+header a {
+  text-decoration: none;
+  color: #c6ae35;
+}
+header a:hover{
+  color: #FFFFFF;
+}
+.left {
+  float:left;
+  margin-left: 14%;
+  padding: 7px 0px;
+}
+.right{
+  float: right;
+  margin-right: 13.8%;
+  display: inline-block;
+  padding: 7px 0px;
+}
+#prueba{
+  text-align:center;
+}
+#bannerr,#art1, #art2 {
+  text-align: center;
+  max-width: 100%;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+}
+
+a{
+  text-decoration: none;
+}
+a: hover {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+nav{
+  text-align: center;
+}
+nav ul{
+  list-style: none;
+  margin: 0;
+  padding-left: 50px;
+  
+  
+}
+nav ul li{
+  text-align: center;
+  display: inline-block;
+  width: 14%;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+  
+}
+nav ul li a:hover {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+.active{
+  font-weight: bold;
+}
+.sidebar{
+  width:40%;
+  float:right;
+}
+#wrapper{
+  width: 100%;
+  max-width:1040px;
+  text-align: center;
+  margin: 0 auto;
+}
+section h4{
+  
+}
+.price{
+  color: #8c939e;
+}
+#buy{
+  color:#c6ae35;
+  background: #000;
+  margin:3% 0;
+  padding: 1% 4%;
+  font-size: 15px;
+  font-weight: bold;
+}
+section {
+  text-align: left;
+}
+footer{
+  background: #eae8e8;
+  width: 100%; 
+  overflow:hidden;
+  text-align:center;
+}
+#latestnews, #quicklinks{
+  width: 30%;
+   float:left;
+  padding: 2%;
+}
+.small{
+  margin: 0 auto;
+}
+footer section a {
+  text-decoration: none;
+  color: #000;
+    font-weight: bold;
+}
+footer section a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+small a{
+  color: #000; 
+  font-weight: bold;
+}
+small a:hover{
+  text-decoration: underline;
+}
+#strange, #strange a, #strange a:hover{
+  text-align:left;
+  color:#000;
+}
+#howmuch{
+  width:45px;
+  border-radius: 4px;
+}
+#related{
+  margin: 30px 0; 
+}
+.social{
+  border-radius:7px;
+}
+#googlePlus, #googlePlus a, #googlePlus a:hover{
+  color: #af1a1a;
+} 
+#twitter, #twitter a, #twitter a:hover{
+  color:#2377ff;
+}
+#printerest,#printerest a,#printerest a:hover {
+  color:#af1a1a;
+}
+#facebook, #facebook a, #facebook a:hover{
+  color:#2377ff;
+}
+div input{
+  border-radius:4px;
+  margin-left: 15px;
+}
